@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-gem 'jemoji'
+gem 'jemoji', '>= 0.10.2'
 gem 'jekyll-gist'
 gem 'jekyll-paginate'
 gem 'kramdown'
